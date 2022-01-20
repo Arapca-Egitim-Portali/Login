@@ -1,1 +1,1 @@
-# MobilUygulama
+# Arapca_egitim_portali_MobilUygulama
