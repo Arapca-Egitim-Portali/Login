@@ -1,1 +1,1 @@
-# Arapca_egitim_portali_MobilUygulama
+# Kütüphane otomasyonu
